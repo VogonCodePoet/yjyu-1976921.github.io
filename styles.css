@@ -1,0 +1,27 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+  .mona-lisa {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.kiss-pablo-picasso{
+	position: absolute;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+	/*Could have just used margin property and specify*/
+}
+.dotted{
+	position: relative;
+	top: 50%;
+  	left: 50%;
+	border-style: dotted;	
+}
